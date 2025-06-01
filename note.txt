@@ -1,0 +1,5 @@
+git
+підключення git 
+1.1 git init
+git status
+1.2 git add
