@@ -111,3 +111,34 @@ ul{
     margin-top: 60px;
     margin-left:20px ;
 }
+
+
+.footer{
+    background-color: #222;
+    color: beige;
+    padding: 100px 0 30px;
+
+
+  
+    
+}
+
+.footer__inner{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #444;
+    justify-content: space-between;
+}
+
+.footer__menu-link{
+    color: aliceblue;
+   
+}
+
+.footer__menu-list li{
+    padding: 4px 0;
+}
+
+.footer__bottom{
+    text-align: center;
+}
